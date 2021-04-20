@@ -1,0 +1,19 @@
+{
+  "name": "extraction-composants-talend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fast-xml-parser": "^3.19.0",
+    "json2csv": "^5.0.6",
+    "semver": "^7.3.5",
+    "xml2js": "^0.4.23"
+  },
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC"
+}
